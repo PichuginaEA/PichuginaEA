@@ -12,11 +12,11 @@
 
 **🗃️ Databases & Big Data:** SQL, MS SQL, PySpark, Hadoop  
 
-**📊 Data & Visualization:** EDA, Data Cleaning, Data Preprocessing, PowerPoint  
+**📈 Data & Visualization:** EDA, Data Cleaning, Data Preprocessing, Matplotlib, Seaborn, PowerBI, PowerPoint
 
 **🧮 Mathematics & Algorithms:** Statistics & Probability, Linear Algebra, Mathematical Analysis, Discrete Math, Combinatorics, Graph Theory, Algorithms  
 
-**🐙 Tools & Platforms:** Git / GitHub, Jupyter Notebook  
+**🐙 Tools & Platforms:** Git / GitHub, Jupyter Notebook, Google Colab
 
 ---
 
